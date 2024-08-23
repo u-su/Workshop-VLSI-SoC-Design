@@ -509,7 +509,7 @@ suraweera@openlane:~/Desktop/work/tools/openlane_working_dir/openlane/designs/pi
 
 ### Detailed Placement
 
-> ⚠ Note: The remainder is demonstrated using a different run due to a unintended program interrupt.
+> ⚠ Note: The remainder is demonstrated using a different run due to an unintended program interrupt.
 
 *OpenLane* `flow.tcl` shell command for congestion-aware placement is `% run_placement`.
 
